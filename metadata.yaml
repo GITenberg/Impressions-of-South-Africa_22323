@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1191
     wikipedia: http://en.wikipedia.org/wiki/James_Bryce,_1st_Viscount_Bryce
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22323#Impressions-of-South-Africa
 gutenberg_bookshelf: South Africa
 gutenberg_issued: '2007-08-14'
 gutenberg_type: Text
