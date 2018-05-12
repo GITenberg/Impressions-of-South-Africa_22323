@@ -1,0 +1,36 @@
+_repo: Impressions-of-South-Africa_22323
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bryce, James Bryce, Viscount
+    alias: Bryce, Viscount
+    birthdate: 1838
+    deathdate: 1922
+    gutenberg_agent_id: '1191'
+    url: http://www.gutenberg.org/2009/agents/1191
+    wikipedia: http://en.wikipedia.org/wiki/James_Bryce,_1st_Viscount_Bryce
+description: ''
+gutenberg_bookshelf: South Africa
+gutenberg_issued: '2007-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22323'
+  lccn: '05015643'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Transvaal (South Africa)'
+- !lcsh 'South African War, 1899-1902'
+- !lcsh 'South Africa -- History -- 1836-1909'
+- !lcsh 'Free State (South Africa)'
+- !lcc 'DT'
+- !lcsh 'Blacks -- South Africa'
+- !lcsh 'South Africa -- Politics and government -- 1836-1909'
+- !lcsh 'South Africa -- Description and travel'
+title: Impressions of South Africa
+url: http://www.gutenberg.org/ebooks/22323
